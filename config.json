@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingsalidate",
+        "uuid": 4515954,
+        "checksum": "hbzlx"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
